@@ -13,7 +13,7 @@ Notix is a simple library for showing notifications on Windows using native mess
 
 You can install Notix locally using pip:
 
-pip install -e .
+pip install notix
 
 This will install Notix in editable mode, which means that changes made to the source code will be reflected immediately without needing to reinstall the package.
 
